@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Poetry Showcase</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div id="page-one">
+    <h1>Reality, a colorful illusion</h1>
+    <p>A journey through reality and illusions.</p>
+  </div>
+
+  <div id="poems">
+
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    const container = document.getElementById('poems');
+
+    // Function to strip YAML front matter
+    function stripYaml(text) {
+      if (text.startsWith('---')) {
+        const parts = text.split('---');
+        if (parts.length >= 3) {
+          return parts.slice(2).join('---').trim();
+        }
+      }
+      return text;
+    }
+
+    // Load the manifest file
+    fetch('poems.json')
+      .then(res => res.json())
+      .then(poems => {
+        poems.forEach(poem => {
+          fetch(poem.file)
+            .then(res => res.text())
+            .then(text => {
+              const cleanText = stripYaml(text);
+              const poemDiv = document.createElement('div');
+              poemDiv.className = 'poem';
+
+              const content = document.createElement('div');
+              content.innerHTML = marked.parse(cleanText);
+              poemDiv.appendChild(content);
+
+              container.appendChild(poemDiv);
+            });
+        });
+      })
+      .catch(err => console.error('Error loading poems:', err));
+  </script>
+</body>
+</html>
