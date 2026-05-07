@@ -34,5 +34,3 @@ Death comes as you see the light Is eternity a lie.
 
 
 
-
-*Urangani T.M*

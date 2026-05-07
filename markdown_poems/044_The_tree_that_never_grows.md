@@ -39,5 +39,3 @@ Without proper care he will never bloom
 
 
 
-
-*Urangani T.M*

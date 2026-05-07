@@ -35,5 +35,3 @@ No matter how broken ill still claim her as mine
 
 
 
-
-*Urangani T.M*

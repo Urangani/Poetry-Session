@@ -46,5 +46,3 @@ Me and you that’s my endgame
 
 
 
-
-*Urangani T.M*

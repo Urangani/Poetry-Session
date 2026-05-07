@@ -38,5 +38,3 @@ Love yours and stop being what you not
 
 
 
-
-*Urangani T.M*

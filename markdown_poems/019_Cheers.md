@@ -45,5 +45,3 @@ You will bathe in happiness and not a drop of stress
 
 
 
-
-*Urangani T.M*

@@ -13,7 +13,7 @@ But death is forever.
 Soo death is a contradiction to the lie.  
 Then if we die together,   
 Then you shall forever be mine  
-                                                      URANGANI T.M  
+
 
 
 

@@ -7,20 +7,38 @@
 </head>
 <body>
 
-  <div id="page-one">
+  <header>
     <h1>Reality, a colorful illusion</h1>
     <p>A journey through reality and illusions.</p>
-  </div>
+    <nav>
+      <a href="#poems">Poems</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
 
-  <div id="poems">
+  <main>
+    <section id="poems"></section>
 
-  </div>
+    <section id="about">
+      <h2>About</h2>
+      <p>Minimalist poetry site — words first, design second.</p>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Email: poet@example.com</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 My Poetry Showcase</p>
+  </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
     const container = document.getElementById('poems');
 
-    // Function to strip YAML front matter
     function stripYaml(text) {
       if (text.startsWith('---')) {
         const parts = text.split('---');
@@ -31,7 +49,6 @@
       return text;
     }
 
-    // Load the manifest file
     fetch('poems.json')
       .then(res => res.json())
       .then(poems => {
@@ -43,10 +60,15 @@
               const poemDiv = document.createElement('div');
               poemDiv.className = 'poem';
 
+              const theme = document.createElement('span');
+              theme.className = 'theme';
+              theme.textContent = poem.theme || "Theme: Reflection";
+
               const content = document.createElement('div');
               content.innerHTML = marked.parse(cleanText);
-              poemDiv.appendChild(content);
 
+              poemDiv.appendChild(theme);
+              poemDiv.appendChild(content);
               container.appendChild(poemDiv);
             });
         });

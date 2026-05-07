@@ -36,5 +36,3 @@ Is this race still worth winning or have I already lost?
 
 
 
-
-*Urangani T.M*

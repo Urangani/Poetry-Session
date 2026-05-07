@@ -37,5 +37,3 @@ At least what is started is better than what was never
 
 
 
-
-*Urangani T.M*

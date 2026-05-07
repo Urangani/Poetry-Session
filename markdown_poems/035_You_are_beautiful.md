@@ -38,5 +38,3 @@ With all that said, you are beautiful and that ends there
 
 
 
-
-*Urangani T.M*

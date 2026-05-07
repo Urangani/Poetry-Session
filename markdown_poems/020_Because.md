@@ -34,5 +34,3 @@ Round and round that’s how our story goes
 
 
 
-
-*Urangani T.M*

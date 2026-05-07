@@ -37,5 +37,3 @@ She is the sweetest cake I have ever baked
 
 
 
-
-*Urangani T.M*

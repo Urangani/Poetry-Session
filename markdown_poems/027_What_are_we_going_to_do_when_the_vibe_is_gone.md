@@ -39,5 +39,3 @@ No one to blame but the murder we call time
 
 
 
-
-*Urangani T.M*

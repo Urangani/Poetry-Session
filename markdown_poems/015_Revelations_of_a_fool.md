@@ -40,5 +40,3 @@ Guess I should have gone for the leg.
 
 
 
-
-*Urangani T.M*

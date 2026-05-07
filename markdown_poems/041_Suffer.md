@@ -38,5 +38,3 @@ Humanity was born to suffer not just me
 
 
 
-
-*Urangani T.M*

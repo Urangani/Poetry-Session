@@ -39,5 +39,3 @@ If you look deep, you will see through her
 
 
 
-
-*Urangani T.M*

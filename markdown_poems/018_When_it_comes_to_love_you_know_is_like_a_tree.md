@@ -37,5 +37,3 @@ And see what I’m rambling about
 
 
 
-
-*Urangani T.M*

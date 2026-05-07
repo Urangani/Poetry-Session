@@ -37,5 +37,3 @@ Then we see the destiny the teachers foretold
 
 
 
-
-*Urangani T.M*

@@ -45,5 +45,3 @@ Onto the next period there goes my vitality
 
 
 
-
-*Urangani T.M*

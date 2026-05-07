@@ -38,5 +38,3 @@ Gone will be the days of her solitude
 
 
 
-
-*Urangani T.M*

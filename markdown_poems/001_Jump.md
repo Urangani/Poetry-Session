@@ -7,9 +7,9 @@ id: 1
 # Jump
 
 Jump   
-Jump the puddles of drama.   
-Jump the bad vibes and karma.   
-Jump in the lake of sleep.   
+Jump the puddles of drama,   
+Jump the bad vibes and karma,   
+Jump into the lake of sleep,   
 Jump into sole meditation and fall in deep.   
 
 
@@ -36,6 +36,3 @@ Jump into sole meditation and fall in deep.
 
 
 
-
-
-*Urangani T.M*

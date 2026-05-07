@@ -39,5 +39,3 @@ take its path and you will find that only fools end up astray.
 
 
 
-
-*Urangani T.M*

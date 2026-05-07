@@ -11,7 +11,7 @@ Don’t count the stars.
 Count the days u sat counting them from afar.   
 As the stars are not beautiful   
 but the thought of us perceiving them is beautiful.  
-                                                                               Urangani TM  
+
 
 
 

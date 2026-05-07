@@ -37,5 +37,3 @@ Even at home I wear them like is winter season.
 
 
 
-
-*Urangani T.M*

@@ -38,5 +38,3 @@ You are my good side, who would’ve thought u exist.
 
 
 
-
-*Urangani T.M*

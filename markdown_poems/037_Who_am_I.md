@@ -35,5 +35,3 @@ Is back to the soil which I came
 
 
 
-
-*Urangani T.M*

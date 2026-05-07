@@ -35,5 +35,3 @@ Then is your demise
 
 
 
-
-*Urangani T.M*

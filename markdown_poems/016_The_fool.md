@@ -37,5 +37,3 @@ Now you understand that the world is not kind to fools
 
 
 
-
-*Urangani T.M*

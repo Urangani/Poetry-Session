@@ -37,5 +37,3 @@ A last-ditch resort of a dying breed
 
 
 
-
-*Urangani T.M*

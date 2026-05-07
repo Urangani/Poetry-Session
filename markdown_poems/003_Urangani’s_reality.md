@@ -7,9 +7,9 @@ id: 3
 # Urangani’s reality
 
 Urangani’s reality   
-It is an   
-Unrealistic source of life, His  
-Reality so mysterious but it’s still alright, is   
+
+Unreal, What is the point of life,  
+Reality such mystery    
 A life usually so quiet but mostly at nights   
 Nevertheless, still a beautiful gaze    
 Graceful with all is undying stars, is   
@@ -39,5 +39,3 @@ It only exists once you step into the night
 
 
 
-
-*Urangani T.M*

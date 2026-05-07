@@ -37,5 +37,3 @@ I am pretty sure that the is no other like her
 
 
 
-
-*Urangani T.M*

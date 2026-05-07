@@ -40,5 +40,3 @@ Happy birthday Ngudo
 
 
 
-
-*Urangani T.M*

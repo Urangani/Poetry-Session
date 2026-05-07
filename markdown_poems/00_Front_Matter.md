@@ -28,21 +28,10 @@ Written by Urangani Terrence Mafunzwaini
   
   
    
-Why poetry I do not know either, all I can say it was my way to vent. There is so much the mind can contain but pen and paper make a great backup storage. Poetry just feels right.   
+  
+  
    
-This book is my life’s work, is how I see the world from my personal experiences to the heart’s endeavors.   
-    
-Hope you all reading this relate or somehow be amused.    
-Honestly, that’s all up to you.    
-Peace out.      
-Though this is not the actual book   
-Is a sketch of what the actual might be like….   
-Just for control, fuck you all.   
-Bye fuckers.   
-   
-   
-   
-   
+I wrote these poems out of curiosity, guided by a desire to explore every shade of writing. Feelings may fade, and emotions slip quietly into forgetfulness, but literature holds them fast etched into memory by the permanence of words. In these pages, I have carved the silly, the wonderful, and the romantic moments that once colored my life, preserving them in Reality, a Colorful Illusion. Through this act, I discovered not only the beauty of fleeting emotions, but also the measure of how deeply I could capture them.  
    
    
    
@@ -56,5 +45,15 @@ Bye fuckers.
    
    
     
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
    
    

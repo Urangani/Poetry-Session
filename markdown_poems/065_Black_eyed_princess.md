@@ -36,5 +36,3 @@ Her soul will a place to belong too.
 
 
 
-
-*Urangani T.M*

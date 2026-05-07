@@ -38,5 +38,3 @@ Sit back and just glance.
 
 
 
-
-*Urangani T.M*

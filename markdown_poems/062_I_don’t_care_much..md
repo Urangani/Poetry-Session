@@ -36,5 +36,3 @@ No, is a turndown for life once lived as a clown.
 
 
 
-
-*Urangani T.M*

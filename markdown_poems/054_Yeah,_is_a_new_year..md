@@ -37,5 +37,3 @@ but you won’t.
 
 
 
-
-*Urangani T.M*

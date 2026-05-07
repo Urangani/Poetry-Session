@@ -38,5 +38,3 @@ Just wait for me to show it.
 
 
 
-
-*Urangani T.M*

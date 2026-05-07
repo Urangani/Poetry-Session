@@ -35,5 +35,3 @@ Or should I tell you my darkest secrets as dark as tonight morning comes you wil
 
 
 
-
-*Urangani T.M*

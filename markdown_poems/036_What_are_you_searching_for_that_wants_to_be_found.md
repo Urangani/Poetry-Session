@@ -38,5 +38,3 @@ All lost in the search
 
 
 
-
-*Urangani T.M*

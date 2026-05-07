@@ -37,5 +37,3 @@ The time to make no mistake and show her why
 
 
 
-
-*Urangani T.M*

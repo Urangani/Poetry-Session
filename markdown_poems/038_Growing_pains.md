@@ -35,5 +35,3 @@ Cursed with the search of meaning Guess it was time to grow up and stop dreaming
 
 
 
-
-*Urangani T.M*

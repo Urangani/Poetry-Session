@@ -37,5 +37,3 @@ Everyone is a threat, everyone is an enemy
 
 
 
-
-*Urangani T.M*

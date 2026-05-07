@@ -35,5 +35,3 @@ Nobody knows only Jessica does
 
 
 
-
-*Urangani T.M*

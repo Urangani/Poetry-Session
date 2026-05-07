@@ -38,5 +38,3 @@ Nothing more than just a short story
 
 
 
-
-*Urangani T.M*

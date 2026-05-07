@@ -46,5 +46,3 @@ Or will everything go dark as the night
 
 
 
-
-*Urangani T.M*

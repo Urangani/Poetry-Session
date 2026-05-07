@@ -38,5 +38,3 @@ The sunshine’s so do smiles
 
 
 
-
-*Urangani T.M*

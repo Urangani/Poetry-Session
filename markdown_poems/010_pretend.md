@@ -38,5 +38,3 @@ is not being fake is me keeping it all together
 
 
 
-
-*Urangani T.M*

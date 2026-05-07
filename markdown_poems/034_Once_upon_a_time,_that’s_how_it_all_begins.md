@@ -37,5 +37,3 @@ Is the garden of Eden one might presume
 
 
 
-
-*Urangani T.M*

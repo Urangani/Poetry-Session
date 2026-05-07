@@ -37,5 +37,3 @@ How can we when the whole is just a fall
 
 
 
-
-*Urangani T.M*

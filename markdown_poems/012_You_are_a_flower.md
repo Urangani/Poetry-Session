@@ -37,5 +37,3 @@ So, you can grow to be the beautiful rose you are
 
 
 
-
-*Urangani T.M*

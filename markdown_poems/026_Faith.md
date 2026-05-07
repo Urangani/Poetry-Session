@@ -37,5 +37,3 @@ We are nothing more than a glimpse in time
 
 
 
-
-*Urangani T.M*

@@ -45,5 +45,3 @@ Is my bad side, prepare because I am coming to sting.
 
 
 
-
-*Urangani T.M*

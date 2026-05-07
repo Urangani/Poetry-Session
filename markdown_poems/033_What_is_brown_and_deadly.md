@@ -40,5 +40,3 @@ Are your eyes
 
 
 
-
-*Urangani T.M*

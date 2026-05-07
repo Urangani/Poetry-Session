@@ -38,5 +38,3 @@ But he is just a dreamer
 
 
 
-
-*Urangani T.M*

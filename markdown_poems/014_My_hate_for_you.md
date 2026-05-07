@@ -40,5 +40,3 @@ Ironically, I am you.
 
 
 
-
-*Urangani T.M*
