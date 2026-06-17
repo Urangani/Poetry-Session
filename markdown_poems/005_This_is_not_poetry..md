@@ -2,6 +2,9 @@
 title: "This is not poetry."
 author: "Urangani T.M"
 id: 5
+type: poem
+status: published
+tags: ['love', 'identity']
 ---
 
 # This is not poetry.

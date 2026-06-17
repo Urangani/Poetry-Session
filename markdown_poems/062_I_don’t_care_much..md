@@ -2,6 +2,9 @@
 title: "I don’t care much."
 author: "Urangani T.M"
 id: 62
+type: poem
+status: published
+tags: []
 ---
 
 # I don’t care much.

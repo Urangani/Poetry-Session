@@ -2,6 +2,9 @@
 title: "Show her why"
 author: "Urangani T.M"
 id: 9
+type: poem
+status: published
+tags: ['love']
 ---
 
 # Show her why

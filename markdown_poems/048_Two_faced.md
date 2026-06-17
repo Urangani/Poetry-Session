@@ -2,6 +2,9 @@
 title: "Two faced"
 author: "Urangani T.M"
 id: 48
+type: poem
+status: published
+tags: []
 ---
 
 # Two faced

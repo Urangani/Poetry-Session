@@ -1,3 +1,9 @@
+---
+title: "Front Matter"
+type: intro
+status: published
+---
+
 # Front Matter
 
 Reality, A colorful illusion  

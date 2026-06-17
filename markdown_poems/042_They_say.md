@@ -2,6 +2,9 @@
 title: "They say"
 author: "Urangani T.M"
 id: 42
+type: poem
+status: published
+tags: ['love']
 ---
 
 # They say

@@ -2,6 +2,9 @@
 title: "You my dear are mine I promise."
 author: "Urangani T.M"
 id: 56
+type: poem
+status: published
+tags: ['love', 'nature']
 ---
 
 # You my dear are mine I promise.

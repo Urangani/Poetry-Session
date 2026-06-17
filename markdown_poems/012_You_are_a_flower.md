@@ -2,6 +2,9 @@
 title: "You are a flower"
 author: "Urangani T.M"
 id: 12
+type: poem
+status: published
+tags: ['nature']
 ---
 
 # You are a flower

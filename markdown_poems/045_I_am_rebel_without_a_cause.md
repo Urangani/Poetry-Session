@@ -2,6 +2,9 @@
 title: "I am rebel without a cause"
 author: "Urangani T.M"
 id: 45
+type: poem
+status: published
+tags: ['darkness']
 ---
 
 # I am rebel without a cause

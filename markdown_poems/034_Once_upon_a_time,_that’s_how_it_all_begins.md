@@ -2,6 +2,9 @@
 title: "Once upon a time, that’s how it all begins"
 author: "Urangani T.M"
 id: 34
+type: poem
+status: published
+tags: ['love', 'nature', 'time']
 ---
 
 # Once upon a time, that’s how it all begins

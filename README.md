@@ -1,47 +1,37 @@
-# Poetry Session: Reality, A Colorful Illusion
+# Reality, a colorful illusion
 
-A digital poetry collection by **Urangani T.M.** This project automatically converts a Word document (`.docx`) into a web-ready showcase of poems.
+> *"Feelings may fade, and emotions slip quietly into forgetfulness, but literature holds them fast—etched into memory by the permanence of words."*
 
-## How it Works
+Welcome to **Reality, a colorful illusion**, a digital poetry collection by **Urangani T.M.** 
 
-1.  **Source:** Write your poems in `Reality-a-colorful-illusion.docx`.
-2.  **Conversion:** A Python script reads the Word file, splits it into individual Markdown files, and generates a `poems.json` manifest.
-3.  **Display:** The `index.html` file fetches the manifest and renders the poems using `marked.js`.
+This repository is more than just code; it is a curated gallery of fleeting moments, romantic revelations, and the quiet beauty of the everyday. Each poem in this collection serves as a preservation of emotion—the silly, the wonderful, and the profound.
 
-## 🛠️ Project Structure
+---
 
-```text
-Poetry-Session/
-├── Reality-a-colorful-illusion.docx  # The source document
-├── index.html                        # The web viewer
-├── style.css                         # Styling for the poems
-├── poems.json                        # Auto-generated list of poems
-├── markdown_poems/                   # Generated Markdown files
-├── scripts/
-│   ├── convert-poems.py              # The conversion engine
-│   └── requirements.txt              # Python dependencies
-└── env/                              # Python virtual environment
-```
+##  Experience the Collection
 
-## 📝 Usage
+### The Web Gallery
+Explore the poems through an interactive, minimalist web experience. Designed to keep the focus on the words, the gallery allows you to wander through the themes of life and illusion.
+- **[Launch the Gallery](index.html)** (Open in any modern browser)
 
-### 1. Update your poems
-Edit the `Reality-a-colorful-illusion.docx` file. Ensure poems are numbered (e.g., `1.`, `2.`, etc.) for the script to recognize the split points.
+### The Poetry Book
+For a more traditional reading experience, the collection is available as a professionally styled PDF book. Featuring classic typography and one-poem-per-page layout, it is perfect for deep reading or printing.
+- **`Reality_A_Colorful_Illusion.pdf`** (Coming soon / Generated via scripts)
 
-### 2. Run the conversion script
-To update the Markdown files and the website manifest, run:
+---
 
-```bash
-# Activate the environment and run the script
-./env/bin/python scripts/convert-poems.py
-```
+## ✨ Themes & Reflections
+The collection explores a wide spectrum of the human experience:
+- **Illusions of Reality**: Questioning the world we see.
+- **Romantic Revelations**: Capturing the essence of love and loss.
+- **Nature & Growth**: Lessons learned from the world around us.
 
-### 3. View the website
-Open `index.html` in any web browser to see your updated collection.
+---
 
-## ⚙️ Technical Details
+## 🖋️ About the Author
+**Urangani T.M.** writes out of curiosity, guided by a desire to explore every shade of human experience. Through these pages, the author has carved out a space where emotions are no longer fleeting, but eternal.
 
-- **Python:** Uses `python-docx` to parse Word documents.
-- **Frontend:** Pure HTML/CSS/JS.
-- **Markdown Rendering:** Uses [marked.js](https://marked.js.org/) for fast, client-side rendering.
-- **Metadata:** Each poem includes YAML front matter for easy integration with static site generators if needed in the future.
+---
+
+
+&copy; 2026 Urangani T.M. • All Rights Reserved

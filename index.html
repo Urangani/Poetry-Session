@@ -1,79 +1,54 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
-  <title>My Poetry Showcase</title>
-  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reality, a colorful illusion</title>
+  <link rel="stylesheet" href="css/style.css">
 </head>
+
 <body>
 
-  <header>
-    <h1>Reality, a colorful illusion</h1>
-    <p>A journey through reality and illusions.</p>
-    <nav>
-      <a href="#poems">Poems</a>
-      <a href="#about">About</a>
-      <a href="#contact">Contact</a>
-    </nav>
-  </header>
 
-  <main>
-    <section id="poems"></section>
+  <div id="book-view">
 
-    <section id="about">
-      <h2>About</h2>
-      <p>Minimalist poetry site — words first, design second.</p>
-    </section>
 
-    <section id="contact">
-      <h2>Contact</h2>
-      <p>Email: poet@example.com</p>
-    </section>
-  </main>
+    <header>
+      <h1>Reality, a colorful illusion</h1>
+      <p class="subtitle">A digital poetry collection by Urangani T.M.</p>
+      <nav id="category-nav">
+        <!-- Categories will be injected here -->
+      </nav>
+    </header>
+
+    <main>
+      <section id="poems-container">
+        <div id="poems"></div>
+      </section>
+
+      <section id="about">
+        <h2>The Collection</h2>
+        <p>A journey through the vibrant colors of reality and the subtle illusions of the mind.</p>
+      </section>
+
+      <section id="contact">
+        <h2>Connect</h2>
+        <p>For inquiries or collaborations: <a href="mailto:poet@example.com">www.uranganidc@gmail.com</a></p>
+      </section>
+    </main>
+  </div>
 
   <footer>
-    <p>&copy; 2026 My Poetry Showcase</p>
+    <p>&copy; 2026 Urangani T.M. &bull; All Rights Reserved</p>
+    <p><a href="studio.html" style="color: #ccc; font-size: 0.7rem; text-decoration: none;">Launch Poetry Studio</a></p>
   </footer>
 
+  <!-- Libraries -->
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-  <script>
-    const container = document.getElementById('poems');
 
-    function stripYaml(text) {
-      if (text.startsWith('---')) {
-        const parts = text.split('---');
-        if (parts.length >= 3) {
-          return parts.slice(2).join('---').trim();
-        }
-      }
-      return text;
-    }
-
-    fetch('poems.json')
-      .then(res => res.json())
-      .then(poems => {
-        poems.forEach(poem => {
-          fetch(poem.file)
-            .then(res => res.text())
-            .then(text => {
-              const cleanText = stripYaml(text);
-              const poemDiv = document.createElement('div');
-              poemDiv.className = 'poem';
-
-              const theme = document.createElement('span');
-              theme.className = 'theme';
-              theme.textContent = poem.theme || "Theme: Reflection";
-
-              const content = document.createElement('div');
-              content.innerHTML = marked.parse(cleanText);
-
-              poemDiv.appendChild(theme);
-              poemDiv.appendChild(content);
-              container.appendChild(poemDiv);
-            });
-        });
-      })
-      .catch(err => console.error('Error loading poems:', err));
-  </script>
+  <!-- Core Logic -->
+  <script src="js/main.js"></script>
 </body>
+
 </html>

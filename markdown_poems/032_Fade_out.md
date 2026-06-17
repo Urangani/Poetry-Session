@@ -2,6 +2,9 @@
 title: "Fade out"
 author: "Urangani T.M"
 id: 32
+type: poem
+status: published
+tags: ['identity']
 ---
 
 # Fade out

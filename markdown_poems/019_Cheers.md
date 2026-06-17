@@ -2,6 +2,9 @@
 title: "Cheers"
 author: "Urangani T.M"
 id: 19
+type: poem
+status: published
+tags: ['love']
 ---
 
 # Cheers

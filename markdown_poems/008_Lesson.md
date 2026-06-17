@@ -2,6 +2,9 @@
 title: "Lesson"
 author: "Urangani T.M"
 id: 8
+type: poem
+status: published
+tags: ['love', 'identity']
 ---
 
 # Lesson

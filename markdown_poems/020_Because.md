@@ -2,6 +2,9 @@
 title: "Because"
 author: "Urangani T.M"
 id: 20
+type: poem
+status: published
+tags: ['love', 'nature']
 ---
 
 # Because

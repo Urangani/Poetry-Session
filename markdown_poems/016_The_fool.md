@@ -2,6 +2,9 @@
 title: "The fool"
 author: "Urangani T.M"
 id: 16
+type: poem
+status: published
+tags: ['identity']
 ---
 
 # The fool

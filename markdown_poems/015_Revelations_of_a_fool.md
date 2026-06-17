@@ -2,6 +2,9 @@
 title: "Revelations of a fool"
 author: "Urangani T.M"
 id: 15
+type: poem
+status: published
+tags: ['time', 'love', 'identity']
 ---
 
 # Revelations of a fool

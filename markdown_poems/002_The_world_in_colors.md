@@ -2,6 +2,9 @@
 title: "The world in colors"
 author: "Urangani T.M"
 id: 2
+type: poem
+status: published
+tags: ['love', 'nature']
 ---
 
 # The world in colors

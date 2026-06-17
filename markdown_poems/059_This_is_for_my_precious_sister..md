@@ -2,6 +2,9 @@
 title: "This is for my precious sister."
 author: "Urangani T.M"
 id: 59
+type: poem
+status: published
+tags: ['time', 'love', 'darkness']
 ---
 
 # This is for my precious sister.

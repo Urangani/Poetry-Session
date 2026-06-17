@@ -2,6 +2,9 @@
 title: "Hopes for the beyond"
 author: "Urangani T.M"
 id: 29
+type: poem
+status: published
+tags: ['time']
 ---
 
 # Hopes for the beyond

@@ -2,6 +2,9 @@
 title: "Watch the space"
 author: "Urangani T.M"
 id: 43
+type: poem
+status: published
+tags: ['love', 'darkness']
 ---
 
 # Watch the space

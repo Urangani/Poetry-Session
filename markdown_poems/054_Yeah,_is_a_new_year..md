@@ -2,6 +2,9 @@
 title: "Yeah, is a new year."
 author: "Urangani T.M"
 id: 54
+type: poem
+status: published
+tags: ['time']
 ---
 
 # Yeah, is a new year.

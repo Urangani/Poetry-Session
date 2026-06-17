@@ -2,6 +2,9 @@
 title: "When it rains it pours"
 author: "Urangani T.M"
 id: 58
+type: poem
+status: published
+tags: ['love', 'nature']
 ---
 
 # When it rains it pours

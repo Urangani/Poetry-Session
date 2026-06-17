@@ -2,6 +2,9 @@
 title: "The Pieces of you cloud my mind."
 author: "Urangani T.M"
 id: 60
+type: poem
+status: published
+tags: ['love', 'identity']
 ---
 
 # The Pieces of you cloud my mind.

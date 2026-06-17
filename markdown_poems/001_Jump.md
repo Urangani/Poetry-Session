@@ -2,6 +2,9 @@
 title: "Jump"
 author: "Urangani T.M"
 id: 1
+type: poem
+status: published
+tags: ['nature', 'darkness']
 ---
 
 # Jump

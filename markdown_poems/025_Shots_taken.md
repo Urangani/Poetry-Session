@@ -2,6 +2,9 @@
 title: "Shots taken"
 author: "Urangani T.M"
 id: 25
+type: poem
+status: published
+tags: ['nature']
 ---
 
 # Shots taken

@@ -2,6 +2,9 @@
 title: "Jessica"
 author: "Urangani T.M"
 id: 47
+type: poem
+status: published
+tags: ['love']
 ---
 
 # Jessica

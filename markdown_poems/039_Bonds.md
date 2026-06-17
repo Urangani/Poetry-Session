@@ -2,6 +2,9 @@
 title: "Bonds"
 author: "Urangani T.M"
 id: 39
+type: poem
+status: published
+tags: ['time']
 ---
 
 # Bonds

@@ -2,6 +2,9 @@
 title: "Y’all going to hell."
 author: "Urangani T.M"
 id: 57
+type: poem
+status: published
+tags: ['love', 'darkness']
 ---
 
 # Y’all going to hell.

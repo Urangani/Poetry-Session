@@ -2,6 +2,9 @@
 title: "Growing pains"
 author: "Urangani T.M"
 id: 38
+type: poem
+status: published
+tags: ['darkness']
 ---
 
 # Growing pains

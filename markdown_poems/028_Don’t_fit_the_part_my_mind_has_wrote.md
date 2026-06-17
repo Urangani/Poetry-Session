@@ -2,6 +2,9 @@
 title: "Don’t fit the part my mind has wrote"
 author: "Urangani T.M"
 id: 28
+type: poem
+status: published
+tags: ['love', 'identity']
 ---
 
 # Don’t fit the part my mind has wrote

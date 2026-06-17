@@ -2,6 +2,9 @@
 title: "She tries hiding her impurities"
 author: "Urangani T.M"
 id: 43
+type: poem
+status: published
+tags: ['love']
 ---
 
 # She tries hiding her impurities

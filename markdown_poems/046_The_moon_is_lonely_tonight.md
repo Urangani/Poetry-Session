@@ -2,6 +2,9 @@
 title: "The moon is lonely tonight"
 author: "Urangani T.M"
 id: 46
+type: poem
+status: published
+tags: ['time', 'love', 'nature', 'identity']
 ---
 
 # The moon is lonely tonight

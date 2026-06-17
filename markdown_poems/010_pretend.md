@@ -2,6 +2,9 @@
 title: "pretend"
 author: "Urangani T.M"
 id: 10
+type: poem
+status: published
+tags: ['love']
 ---
 
 # pretend

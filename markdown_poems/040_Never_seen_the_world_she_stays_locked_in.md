@@ -2,6 +2,9 @@
 title: "Never seen the world she stays locked in"
 author: "Urangani T.M"
 id: 40
+type: poem
+status: published
+tags: ['time', 'love', 'identity']
 ---
 
 # Never seen the world she stays locked in

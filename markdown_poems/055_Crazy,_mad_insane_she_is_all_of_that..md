@@ -2,6 +2,9 @@
 title: "Crazy, mad insane she is all of that."
 author: "Urangani T.M"
 id: 55
+type: poem
+status: published
+tags: ['love', 'darkness']
 ---
 
 # Crazy, mad insane she is all of that.

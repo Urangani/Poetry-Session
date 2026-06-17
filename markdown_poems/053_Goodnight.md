@@ -2,6 +2,9 @@
 title: "Goodnight"
 author: "Urangani T.M"
 id: 53
+type: poem
+status: published
+tags: ['time']
 ---
 
 # Goodnight

@@ -2,6 +2,9 @@
 title: "First period"
 author: "Urangani T.M"
 id: 17
+type: poem
+status: published
+tags: ['identity', 'love', 'darkness']
 ---
 
 # First period

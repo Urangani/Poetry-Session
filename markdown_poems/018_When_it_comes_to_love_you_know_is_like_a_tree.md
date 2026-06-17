@@ -2,6 +2,9 @@
 title: "When it comes to love you know is like a tree"
 author: "Urangani T.M"
 id: 18
+type: poem
+status: published
+tags: ['love', 'nature']
 ---
 
 # When it comes to love you know is like a tree

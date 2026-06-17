@@ -2,6 +2,9 @@
 title: "You are beautiful"
 author: "Urangani T.M"
 id: 35
+type: poem
+status: published
+tags: ['love', 'nature']
 ---
 
 # You are beautiful

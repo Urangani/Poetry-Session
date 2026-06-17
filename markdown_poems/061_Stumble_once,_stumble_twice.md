@@ -2,6 +2,9 @@
 title: "Stumble once, stumble twice"
 author: "Urangani T.M"
 id: 61
+type: poem
+status: published
+tags: []
 ---
 
 # Stumble once, stumble twice

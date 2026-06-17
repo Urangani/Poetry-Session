@@ -1,2 +1,6 @@
-env
-GEMINI.md
+env/
+__pycache__/
+*.pyc
+.DS_Store
+*.docx
+!Reality-a-colorful-illusion.docx

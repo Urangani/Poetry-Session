@@ -2,6 +2,9 @@
 title: "Black eyed princess"
 author: "Urangani T.M"
 id: 65
+type: poem
+status: published
+tags: ['time', 'love', 'nature', 'identity']
 ---
 
 # Black eyed princess

@@ -2,6 +2,9 @@
 title: "Forever"
 author: "Urangani T.M"
 id: 64
+type: poem
+status: published
+tags: ['love', 'time']
 ---
 
 # Forever

@@ -2,6 +2,9 @@
 title: "Urangani’s reality"
 author: "Urangani T.M"
 id: 3
+type: poem
+status: published
+tags: ['nature', 'identity']
 ---
 
 # Urangani’s reality

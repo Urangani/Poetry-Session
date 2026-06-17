@@ -2,6 +2,9 @@
 title: "Don’t count the stars."
 author: "Urangani T.M"
 id: 51
+type: poem
+status: published
+tags: ['nature']
 ---
 
 # Don’t count the stars.

@@ -2,6 +2,9 @@
 title: "Granny"
 author: "Urangani T.M"
 id: 4
+type: poem
+status: published
+tags: ['love']
 ---
 
 # Granny

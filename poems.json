@@ -1,266 +1,555 @@
 [
   {
-    "title": "Front Matter",
-    "file": "markdown_poems/00_Front_Matter.md"
-  },
-  {
     "title": "Jump",
-    "file": "markdown_poems/001_Jump.md"
+    "file": "markdown_poems/001_Jump.md",
+    "tags": [
+      "nature",
+      "darkness"
+    ],
+    "id": "1"
   },
   {
     "title": "The world in colors",
-    "file": "markdown_poems/002_The_world_in_colors.md"
+    "file": "markdown_poems/002_The_world_in_colors.md",
+    "tags": [
+      "love",
+      "nature"
+    ],
+    "id": "2"
   },
   {
     "title": "Urangani\u2019s reality",
-    "file": "markdown_poems/003_Urangani\u2019s_reality.md"
+    "file": "markdown_poems/003_Urangani\u2019s_reality.md",
+    "tags": [
+      "nature",
+      "identity"
+    ],
+    "id": "3"
   },
   {
     "title": "Granny",
-    "file": "markdown_poems/004_Granny.md"
+    "file": "markdown_poems/004_Granny.md",
+    "tags": [
+      "love"
+    ],
+    "id": "4"
   },
   {
     "title": "This is not poetry.",
-    "file": "markdown_poems/005_This_is_not_poetry..md"
+    "file": "markdown_poems/005_This_is_not_poetry..md",
+    "tags": [
+      "love",
+      "identity"
+    ],
+    "id": "5"
   },
   {
     "title": "Welcome to my poetic side",
-    "file": "markdown_poems/006_Welcome_to_my_poetic_side.md"
+    "file": "markdown_poems/006_Welcome_to_my_poetic_side.md",
+    "tags": [
+      "identity",
+      "darkness"
+    ],
+    "id": "6"
   },
   {
     "title": "The dreamer",
-    "file": "markdown_poems/007_The_dreamer.md"
+    "file": "markdown_poems/007_The_dreamer.md",
+    "tags": [
+      "love",
+      "identity"
+    ],
+    "id": "7"
   },
   {
     "title": "Lesson",
-    "file": "markdown_poems/008_Lesson.md"
+    "file": "markdown_poems/008_Lesson.md",
+    "tags": [
+      "love",
+      "identity"
+    ],
+    "id": "8"
   },
   {
     "title": "Show her why",
-    "file": "markdown_poems/009_Show_her_why.md"
+    "file": "markdown_poems/009_Show_her_why.md",
+    "tags": [
+      "love"
+    ],
+    "id": "9"
   },
   {
     "title": "pretend",
-    "file": "markdown_poems/010_pretend.md"
+    "file": "markdown_poems/010_pretend.md",
+    "tags": [
+      "love"
+    ],
+    "id": "10"
   },
   {
     "title": "Life is full of misery",
-    "file": "markdown_poems/011_Life_is_full_of_misery.md"
+    "file": "markdown_poems/011_Life_is_full_of_misery.md",
+    "tags": [
+      "nature",
+      "darkness"
+    ],
+    "id": "11"
   },
   {
     "title": "You are a flower",
-    "file": "markdown_poems/012_You_are_a_flower.md"
+    "file": "markdown_poems/012_You_are_a_flower.md",
+    "tags": [
+      "nature"
+    ],
+    "id": "12"
   },
   {
     "title": "The good bad",
-    "file": "markdown_poems/013_The_good_bad.md"
+    "file": "markdown_poems/013_The_good_bad.md",
+    "tags": [
+      "love",
+      "identity"
+    ],
+    "id": "13"
   },
   {
     "title": "My hate for you",
-    "file": "markdown_poems/014_My_hate_for_you.md"
+    "file": "markdown_poems/014_My_hate_for_you.md",
+    "tags": [
+      "love",
+      "nature",
+      "identity"
+    ],
+    "id": "14"
   },
   {
     "title": "Revelations of a fool",
-    "file": "markdown_poems/015_Revelations_of_a_fool.md"
+    "file": "markdown_poems/015_Revelations_of_a_fool.md",
+    "tags": [
+      "time",
+      "love",
+      "identity"
+    ],
+    "id": "15"
   },
   {
     "title": "The fool",
-    "file": "markdown_poems/016_The_fool.md"
+    "file": "markdown_poems/016_The_fool.md",
+    "tags": [
+      "identity"
+    ],
+    "id": "16"
   },
   {
     "title": "First period",
-    "file": "markdown_poems/017_First_period.md"
+    "file": "markdown_poems/017_First_period.md",
+    "tags": [
+      "identity",
+      "love",
+      "darkness"
+    ],
+    "id": "17"
   },
   {
     "title": "When it comes to love you know is like a tree",
-    "file": "markdown_poems/018_When_it_comes_to_love_you_know_is_like_a_tree.md"
+    "file": "markdown_poems/018_When_it_comes_to_love_you_know_is_like_a_tree.md",
+    "tags": [
+      "love",
+      "nature"
+    ],
+    "id": "18"
   },
   {
     "title": "Cheers",
-    "file": "markdown_poems/019_Cheers.md"
+    "file": "markdown_poems/019_Cheers.md",
+    "tags": [
+      "love"
+    ],
+    "id": "19"
   },
   {
     "title": "Because",
-    "file": "markdown_poems/020_Because.md"
+    "file": "markdown_poems/020_Because.md",
+    "tags": [
+      "love",
+      "nature"
+    ],
+    "id": "20"
   },
   {
     "title": "Is because",
-    "file": "markdown_poems/021_Is_because.md"
+    "file": "markdown_poems/021_Is_because.md",
+    "tags": [],
+    "id": "21"
   },
   {
     "title": "The lesson",
-    "file": "markdown_poems/022_The_lesson.md"
+    "file": "markdown_poems/022_The_lesson.md",
+    "tags": [
+      "love",
+      "identity"
+    ],
+    "id": "22"
   },
   {
     "title": "She",
-    "file": "markdown_poems/023_She.md"
+    "file": "markdown_poems/023_She.md",
+    "tags": [
+      "love",
+      "nature"
+    ],
+    "id": "23"
   },
   {
     "title": "Is her birthday",
-    "file": "markdown_poems/024_Is_her_birthday.md"
+    "file": "markdown_poems/024_Is_her_birthday.md",
+    "tags": [
+      "love",
+      "nature"
+    ],
+    "id": "24"
   },
   {
     "title": "Shots taken",
-    "file": "markdown_poems/025_Shots_taken.md"
+    "file": "markdown_poems/025_Shots_taken.md",
+    "tags": [
+      "nature"
+    ],
+    "id": "25"
   },
   {
     "title": "Faith",
-    "file": "markdown_poems/026_Faith.md"
+    "file": "markdown_poems/026_Faith.md",
+    "tags": [
+      "identity"
+    ],
+    "id": "26"
   },
   {
     "title": "What are we going to do when the vibe is gone?",
-    "file": "markdown_poems/027_What_are_we_going_to_do_when_the_vibe_is_gone.md"
+    "file": "markdown_poems/027_What_are_we_going_to_do_when_the_vibe_is_gone.md",
+    "tags": [
+      "time"
+    ],
+    "id": "27"
   },
   {
     "title": "Don\u2019t fit the part my mind has wrote",
-    "file": "markdown_poems/028_Don\u2019t_fit_the_part_my_mind_has_wrote.md"
+    "file": "markdown_poems/028_Don\u2019t_fit_the_part_my_mind_has_wrote.md",
+    "tags": [
+      "love",
+      "identity"
+    ],
+    "id": "28"
   },
   {
     "title": "Hopes for the beyond",
-    "file": "markdown_poems/029_Hopes_for_the_beyond.md"
+    "file": "markdown_poems/029_Hopes_for_the_beyond.md",
+    "tags": [
+      "time"
+    ],
+    "id": "29"
   },
   {
     "title": "Eternity",
-    "file": "markdown_poems/030_Eternity.md"
+    "file": "markdown_poems/030_Eternity.md",
+    "tags": [
+      "time"
+    ],
+    "id": "30"
   },
   {
     "title": "If love is hell, then for sure I am already damned.",
-    "file": "markdown_poems/031_If_love_is_hell,_then_for_sure_I_am_already_damned.md"
+    "file": "markdown_poems/031_If_love_is_hell,_then_for_sure_I_am_already_damned.md",
+    "tags": [
+      "love",
+      "darkness"
+    ],
+    "id": "31"
   },
   {
     "title": "Fade out",
-    "file": "markdown_poems/032_Fade_out.md"
+    "file": "markdown_poems/032_Fade_out.md",
+    "tags": [
+      "identity"
+    ],
+    "id": "32"
   },
   {
     "title": "What is brown and deadly?",
-    "file": "markdown_poems/033_What_is_brown_and_deadly.md"
+    "file": "markdown_poems/033_What_is_brown_and_deadly.md",
+    "tags": [
+      "darkness"
+    ],
+    "id": "33"
   },
   {
     "title": "Once upon a time, that\u2019s how it all begins",
-    "file": "markdown_poems/034_Once_upon_a_time,_that\u2019s_how_it_all_begins.md"
+    "file": "markdown_poems/034_Once_upon_a_time,_that\u2019s_how_it_all_begins.md",
+    "tags": [
+      "love",
+      "nature",
+      "time"
+    ],
+    "id": "34"
   },
   {
     "title": "You are beautiful",
-    "file": "markdown_poems/035_You_are_beautiful.md"
+    "file": "markdown_poems/035_You_are_beautiful.md",
+    "tags": [
+      "love",
+      "nature"
+    ],
+    "id": "35"
   },
   {
     "title": "What are you searching for that wants to be found?",
-    "file": "markdown_poems/036_What_are_you_searching_for_that_wants_to_be_found.md"
+    "file": "markdown_poems/036_What_are_you_searching_for_that_wants_to_be_found.md",
+    "tags": [],
+    "id": "36"
   },
   {
     "title": "Who am I?",
-    "file": "markdown_poems/037_Who_am_I.md"
+    "file": "markdown_poems/037_Who_am_I.md",
+    "tags": [
+      "love",
+      "identity"
+    ],
+    "id": "37"
   },
   {
     "title": "Growing pains",
-    "file": "markdown_poems/038_Growing_pains.md"
+    "file": "markdown_poems/038_Growing_pains.md",
+    "tags": [
+      "darkness"
+    ],
+    "id": "38"
   },
   {
     "title": "Bonds",
-    "file": "markdown_poems/039_Bonds.md"
+    "file": "markdown_poems/039_Bonds.md",
+    "tags": [
+      "time"
+    ],
+    "id": "39"
   },
   {
     "title": "Never seen the world she stays locked in",
-    "file": "markdown_poems/040_Never_seen_the_world_she_stays_locked_in.md"
+    "file": "markdown_poems/040_Never_seen_the_world_she_stays_locked_in.md",
+    "tags": [
+      "time",
+      "love",
+      "identity"
+    ],
+    "id": "40"
   },
   {
     "title": "Suffer",
-    "file": "markdown_poems/041_Suffer.md"
+    "file": "markdown_poems/041_Suffer.md",
+    "tags": [
+      "darkness"
+    ],
+    "id": "41"
   },
   {
     "title": "They say",
-    "file": "markdown_poems/042_They_say.md"
-  },
-  {
-    "title": "Watch the space",
-    "file": "markdown_poems/043_Watch_the_space.md"
+    "file": "markdown_poems/042_They_say.md",
+    "tags": [
+      "love"
+    ],
+    "id": "42"
   },
   {
     "title": "She tries hiding her impurities",
-    "file": "markdown_poems/043_She_tries_hiding_her_impurities.md"
+    "file": "markdown_poems/043_She_tries_hiding_her_impurities.md",
+    "tags": [
+      "love"
+    ],
+    "id": "43"
+  },
+  {
+    "title": "Watch the space",
+    "file": "markdown_poems/043_Watch_the_space.md",
+    "tags": [
+      "love",
+      "darkness"
+    ],
+    "id": "43"
   },
   {
     "title": "The tree that never grows",
-    "file": "markdown_poems/044_The_tree_that_never_grows.md"
+    "file": "markdown_poems/044_The_tree_that_never_grows.md",
+    "tags": [
+      "love",
+      "nature"
+    ],
+    "id": "44"
   },
   {
     "title": "I am rebel without a cause",
-    "file": "markdown_poems/045_I_am_rebel_without_a_cause.md"
+    "file": "markdown_poems/045_I_am_rebel_without_a_cause.md",
+    "tags": [
+      "darkness"
+    ],
+    "id": "45"
   },
   {
     "title": "The moon is lonely tonight",
-    "file": "markdown_poems/046_The_moon_is_lonely_tonight.md"
+    "file": "markdown_poems/046_The_moon_is_lonely_tonight.md",
+    "tags": [
+      "time",
+      "love",
+      "nature",
+      "identity"
+    ],
+    "id": "46"
   },
   {
     "title": "Jessica",
-    "file": "markdown_poems/047_Jessica.md"
+    "file": "markdown_poems/047_Jessica.md",
+    "tags": [
+      "love"
+    ],
+    "id": "47"
   },
   {
     "title": "Two faced",
-    "file": "markdown_poems/048_Two_faced.md"
+    "file": "markdown_poems/048_Two_faced.md",
+    "tags": [],
+    "id": "48"
   },
   {
     "title": "Give a care they will take advantage",
-    "file": "markdown_poems/049_Give_a_care_they_will_take_advantage.md"
+    "file": "markdown_poems/049_Give_a_care_they_will_take_advantage.md",
+    "tags": [],
+    "id": "49"
   },
   {
     "title": "When it rains it pours",
-    "file": "markdown_poems/050_When_it_rains_it_pours.md"
+    "file": "markdown_poems/050_When_it_rains_it_pours.md",
+    "tags": [
+      "love",
+      "nature"
+    ],
+    "id": "50"
   },
   {
     "title": "Don\u2019t count the stars.",
-    "file": "markdown_poems/051_Don\u2019t_count_the_stars..md"
+    "file": "markdown_poems/051_Don\u2019t_count_the_stars..md",
+    "tags": [
+      "nature"
+    ],
+    "id": "51"
   },
   {
     "title": "Goodnight",
-    "file": "markdown_poems/053_Goodnight.md"
+    "file": "markdown_poems/053_Goodnight.md",
+    "tags": [
+      "time"
+    ],
+    "id": "53"
   },
   {
     "title": "Yeah, is a new year.",
-    "file": "markdown_poems/054_Yeah,_is_a_new_year..md"
+    "file": "markdown_poems/054_Yeah,_is_a_new_year..md",
+    "tags": [
+      "time"
+    ],
+    "id": "54"
   },
   {
     "title": "Crazy, mad insane she is all of that.",
-    "file": "markdown_poems/055_Crazy,_mad_insane_she_is_all_of_that..md"
+    "file": "markdown_poems/055_Crazy,_mad_insane_she_is_all_of_that..md",
+    "tags": [
+      "love",
+      "darkness"
+    ],
+    "id": "55"
   },
   {
     "title": "You my dear are mine I promise.",
-    "file": "markdown_poems/056_You_my_dear_are_mine_I_promise..md"
+    "file": "markdown_poems/056_You_my_dear_are_mine_I_promise..md",
+    "tags": [
+      "love",
+      "nature"
+    ],
+    "id": "56"
   },
   {
     "title": "Y\u2019all going to hell.",
-    "file": "markdown_poems/057_Y\u2019all_going_to_hell..md"
+    "file": "markdown_poems/057_Y\u2019all_going_to_hell..md",
+    "tags": [
+      "love",
+      "darkness"
+    ],
+    "id": "57"
   },
   {
     "title": "When it rains it pours",
-    "file": "markdown_poems/058_When_it_rains_it_pours.md"
+    "file": "markdown_poems/058_When_it_rains_it_pours.md",
+    "tags": [
+      "love",
+      "nature"
+    ],
+    "id": "58"
   },
   {
     "title": "This is for my precious sister.",
-    "file": "markdown_poems/059_This_is_for_my_precious_sister..md"
+    "file": "markdown_poems/059_This_is_for_my_precious_sister..md",
+    "tags": [
+      "time",
+      "love",
+      "darkness"
+    ],
+    "id": "59"
   },
   {
     "title": "The Pieces of you cloud my mind.",
-    "file": "markdown_poems/060_The_Pieces_of_you_cloud_my_mind..md"
+    "file": "markdown_poems/060_The_Pieces_of_you_cloud_my_mind..md",
+    "tags": [
+      "love",
+      "identity"
+    ],
+    "id": "60"
   },
   {
     "title": "Stumble once, stumble twice",
-    "file": "markdown_poems/061_Stumble_once,_stumble_twice.md"
+    "file": "markdown_poems/061_Stumble_once,_stumble_twice.md",
+    "tags": [],
+    "id": "61"
   },
   {
     "title": "I don\u2019t care much.",
-    "file": "markdown_poems/062_I_don\u2019t_care_much..md"
+    "file": "markdown_poems/062_I_don\u2019t_care_much..md",
+    "tags": [],
+    "id": "62"
   },
   {
     "title": "Lie",
-    "file": "markdown_poems/063_Lie.md"
+    "file": "markdown_poems/063_Lie.md",
+    "tags": [
+      "nature"
+    ],
+    "id": "63"
   },
   {
     "title": "Forever",
-    "file": "markdown_poems/064_Forever.md"
+    "file": "markdown_poems/064_Forever.md",
+    "tags": [
+      "love",
+      "time"
+    ],
+    "id": "64"
   },
   {
     "title": "Black eyed princess",
-    "file": "markdown_poems/065_Black_eyed_princess.md"
+    "file": "markdown_poems/065_Black_eyed_princess.md",
+    "tags": [
+      "time",
+      "love",
+      "nature",
+      "identity"
+    ],
+    "id": "65"
   }
 ]

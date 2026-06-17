@@ -2,6 +2,9 @@
 title: "Welcome to my poetic side"
 author: "Urangani T.M"
 id: 6
+type: poem
+status: published
+tags: ['identity', 'darkness']
 ---
 
 # Welcome to my poetic side

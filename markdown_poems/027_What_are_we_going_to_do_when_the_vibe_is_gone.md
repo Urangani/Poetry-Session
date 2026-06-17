@@ -2,6 +2,9 @@
 title: "What are we going to do when the vibe is gone?"
 author: "Urangani T.M"
 id: 27
+type: poem
+status: published
+tags: ['time']
 ---
 
 # What are we going to do when the vibe is gone?

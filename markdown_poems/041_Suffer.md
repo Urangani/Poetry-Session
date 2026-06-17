@@ -2,6 +2,9 @@
 title: "Suffer"
 author: "Urangani T.M"
 id: 41
+type: poem
+status: published
+tags: ['darkness']
 ---
 
 # Suffer

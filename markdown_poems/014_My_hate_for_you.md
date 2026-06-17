@@ -2,6 +2,9 @@
 title: "My hate for you"
 author: "Urangani T.M"
 id: 14
+type: poem
+status: published
+tags: ['love', 'nature', 'identity']
 ---
 
 # My hate for you

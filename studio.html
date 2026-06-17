@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Poetry Studio - Reality, a colorful illusion</title>
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .studio-container { display: flex; height: calc(100vh - 100px); gap: 20px; }
+    .poem-list { flex: 1; overflow-y: auto; border-right: 1px solid #eee; padding-right: 20px; }
+    .editor-pane { flex: 2; display: flex; flex-direction: column; gap: 10px; }
+    .poem-card { padding: 10px; border: 1px solid #ddd; margin-bottom: 10px; cursor: pointer; border-radius: 8px; }
+    .poem-card.active { border-color: var(--accent-color); background: #f0ede9; }
+    textarea { flex-grow: 1; font-family: 'Courier New', Courier, monospace; padding: 20px; font-size: 1rem; border: 1px solid #ddd; border-radius: 8px; }
+    .toolbar { display: flex; gap: 10px; padding: 10px; background: white; border-bottom: 1px solid #eee; }
+    .metadata-editor { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; padding: 10px; background: #fff; border: 1px solid #eee; }
+    input, select { padding: 8px; border: 1px solid #ddd; border-radius: 4px; }
+    .status-draft { color: orange; }
+    .status-published { color: green; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Poetry Studio</h1>
+    <nav>
+      <a href="index.html">Back to Gallery</a>
+      <button class="nav-btn" onclick="createNewPoem()">+ New Poem</button>
+      <button class="nav-btn" onclick="exportPDF()">Export PDF</button>
+      <button class="nav-btn" onclick="exportZIP()">Export Markdown ZIP</button>
+    </nav>
+  </header>
+
+  <main>
+    <div class="studio-container">
+      <div id="poem-list" class="poem-list">
+        <!-- List of poems will be loaded here -->
+      </div>
+      
+      <div class="editor-pane">
+        <div class="metadata-editor">
+          <input type="text" id="edit-title" placeholder="Poem Title">
+          <select id="edit-status">
+            <option value="draft">Draft</option>
+            <option value="published">Published</option>
+          </select>
+          <input type="text" id="edit-tags" placeholder="Tags (comma separated)">
+          <select id="edit-type">
+            <option value="poem">Poem</option>
+            <option value="intro">Intro</option>
+            <option value="outro">Outro</option>
+          </select>
+        </div>
+        <textarea id="edit-content" placeholder="Write your poem here..."></textarea>
+        <div class="toolbar" style="justify-content: flex-end;">
+          <button class="nav-btn" style="background: var(--accent-color); color: white;" onclick="savePoem()">Save Changes</button>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    let currentPoems = [];
+    let activePoem = null;
+    const API_BASE = 'http://localhost:5000/api';
+
+    async function loadStudio() {
+      try {
+        const res = await fetch(`${API_BASE}/poems`);
+        currentPoems = await res.json();
+        renderList();
+      } catch (err) {
+        console.error("Studio API not running. Run 'python scripts/poetry_core.py studio'");
+        document.getElementById('poem-list').innerHTML = "<p>Please start the Poetry Studio server first.</p>";
+      }
+    }
+
+    function renderList() {
+      const list = document.getElementById('poem-list');
+      list.innerHTML = '';
+      currentPoems.forEach(p => {
+        const card = document.createElement('div');
+        card.className = `poem-card ${activePoem && activePoem.filename === p.filename ? 'active' : ''}`;
+        card.innerHTML = `
+          <strong>${p.metadata.title || 'Untitled'}</strong><br>
+          <small class="status-${p.metadata.status}">${p.metadata.status}</small> | 
+          <small>${p.metadata.type}</small>
+        `;
+        card.onclick = () => selectPoem(p);
+        list.appendChild(card);
+      });
+    } 
+
+    function selectPoem(poem) {
+      activePoem = poem;
+      document.getElementById('edit-title').value = poem.metadata.title || '';
+      document.getElementById('edit-status').value = poem.metadata.status || 'draft';
+      document.getElementById('edit-tags').value = (poem.metadata.tags || []).join(', ');
+      document.getElementById('edit-type').value = poem.metadata.type || 'poem';
+      document.getElementById('edit-content').value = poem.content || '';
+      renderList();
+    }
+
+    async function savePoem() {
+      if (!activePoem) return alert("Select a poem first!");
+      
+      const updated = {
+        filename: activePoem.filename,
+        metadata: {
+          ...activePoem.metadata,
+          title: document.getElementById('edit-title').value,
+          status: document.getElementById('edit-status').value,
+          tags: document.getElementById('edit-tags').value.split(',').map(t => t.trim()).filter(t => t),
+          type: document.getElementById('edit-type').value
+        },
+        content: document.getElementById('edit-content').value
+      };
+
+      await fetch(`${API_BASE}/poems`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(updated)
+      });
+      
+      alert("Saved and Published!");
+      loadStudio();
+    }
+
+    function createNewPoem() {
+      const title = prompt("Enter Poem Title:");
+      if (!title) return;
+      const filename = `${Date.now()}_${title.replace(/\s+/g, '_')}.md`;
+      const newPoem = {
+        filename,
+        metadata: { title, status: 'draft', type: 'poem', tags: [] },
+        content: ""
+      };
+      currentPoems.unshift(newPoem);
+      selectPoem(newPoem);
+    }
+
+    function exportPDF() { window.open(`${API_BASE}/export/pdf`); }
+    function exportZIP() { window.open(`${API_BASE}/export/zip`); }
+
+    window.onload = loadStudio;
+  </script>
+</body>
+</html>

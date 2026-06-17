@@ -2,6 +2,9 @@
 title: "Life is full of misery"
 author: "Urangani T.M"
 id: 11
+type: poem
+status: published
+tags: ['nature', 'darkness']
 ---
 
 # Life is full of misery

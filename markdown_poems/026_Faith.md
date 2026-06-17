@@ -2,6 +2,9 @@
 title: "Faith"
 author: "Urangani T.M"
 id: 26
+type: poem
+status: published
+tags: ['identity']
 ---
 
 # Faith

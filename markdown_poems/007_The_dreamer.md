@@ -2,6 +2,9 @@
 title: "The dreamer"
 author: "Urangani T.M"
 id: 7
+type: poem
+status: published
+tags: ['love', 'identity']
 ---
 
 # The dreamer

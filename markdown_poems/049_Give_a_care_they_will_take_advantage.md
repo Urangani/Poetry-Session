@@ -2,6 +2,9 @@
 title: "Give a care they will take advantage"
 author: "Urangani T.M"
 id: 49
+type: poem
+status: published
+tags: []
 ---
 
 # Give a care they will take advantage

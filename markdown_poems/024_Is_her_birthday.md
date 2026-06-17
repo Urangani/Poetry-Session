@@ -2,6 +2,9 @@
 title: "Is her birthday"
 author: "Urangani T.M"
 id: 24
+type: poem
+status: published
+tags: ['love', 'nature']
 ---
 
 # Is her birthday

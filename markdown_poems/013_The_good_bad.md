@@ -2,6 +2,9 @@
 title: "The good bad"
 author: "Urangani T.M"
 id: 13
+type: poem
+status: published
+tags: ['love', 'identity']
 ---
 
 # The good bad

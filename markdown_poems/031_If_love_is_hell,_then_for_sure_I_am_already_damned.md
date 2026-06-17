@@ -2,6 +2,9 @@
 title: "If love is hell, then for sure I am already damned."
 author: "Urangani T.M"
 id: 31
+type: poem
+status: published
+tags: ['love', 'darkness']
 ---
 
 # If love is hell, then for sure I am already damned.

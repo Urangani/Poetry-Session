@@ -2,6 +2,9 @@
 title: "What is brown and deadly?"
 author: "Urangani T.M"
 id: 33
+type: poem
+status: published
+tags: ['darkness']
 ---
 
 # What is brown and deadly?
