@@ -28,11 +28,20 @@ header {
   flex-direction: column;
   justify-content: space-evenly;
   text-align: center;
-  height: 100vh;
   padding: 5rem 1rem 3rem;
   background: white;
   border-bottom: 1px solid #eee;
+}
 
+#book-view header {
+  height: 100vh;
+}
+
+header nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
 }
 
 header h1 {
@@ -120,9 +129,68 @@ main {
   color: #666;
 }
 
-@media (max-width: 600px) {
-  header h1 { font-size: 2.5rem; }
-  .poem-content p { margin-left: 0; max-width: 100%; }
+@media (max-width: 768px) {
+  header,
+  #book-view header {
+    height: auto;
+    min-height: 60vh;
+    padding: 3rem 1rem 2rem;
+  }
+
+  header h1 {
+    font-size: 2.2rem;
+  }
+
+  header .subtitle {
+    font-size: 0.95rem;
+  }
+
+  #book-view {
+    flex-direction: column;
+  }
+
+  main {
+    padding: 2rem 1rem;
+  }
+
+  .poem {
+    height: auto;
+    margin-bottom: 4rem;
+    padding-bottom: 2rem;
+  }
+
+  .poem-content h1 {
+    font-size: 1.6rem;
+  }
+
+  .poem-content p {
+    margin-left: 0;
+    max-width: 100%;
+    font-size: 1rem;
+  }
+
+  #category-nav {
+    gap: 0.4rem;
+  }
+
+  .nav-btn {
+    font-size: 0.7rem;
+    padding: 0.4rem 0.8rem;
+  }
+
+  footer {
+    padding: 2rem 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  header h1 {
+    font-size: 1.8rem;
+  }
+
+  .poem-content p {
+    font-size: 0.95rem;
+  }
 }
 
 footer {
@@ -131,4 +199,45 @@ footer {
   background: white;
   color: #999;
   font-size: 0.8rem;
+}
+
+/* Studio */
+.studio-page header {
+  padding: 1.5rem 1rem;
+}
+
+/* Studio responsive */
+@media (max-width: 768px) {
+  .studio-container {
+    flex-direction: column;
+    height: auto !important;
+  }
+
+  header nav {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .poem-list {
+    flex: none;
+    width: 100%;
+    max-height: 200px;
+    border-right: none;
+    border-bottom: 1px solid #eee;
+    padding-right: 0;
+    padding-bottom: 10px;
+  }
+
+  .editor-pane {
+    flex: none;
+    width: 100%;
+  }
+
+  .metadata-editor {
+    grid-template-columns: 1fr;
+  }
+
+  textarea {
+    min-height: 300px;
+  }
 }

@@ -4,3 +4,4 @@ __pycache__/
 .DS_Store
 *.docx
 !Reality-a-colorful-illusion.docx
+.~lock.Reality-a-colorful-illusion.docx#
